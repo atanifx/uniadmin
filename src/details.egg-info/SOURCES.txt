@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+pyproject.toml
+src/details/__init__.py
+src/details/constant.py
+src/details/data.py
+src/details/run.py
+src/details.egg-info/PKG-INFO
+src/details.egg-info/SOURCES.txt
+src/details.egg-info/dependency_links.txt
+src/details.egg-info/top_level.txt
