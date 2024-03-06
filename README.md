@@ -5,6 +5,10 @@ This package helps to get student admission data from the University of Port Har
 ```
 pip install uniadmin
 ```
+Or Clone Repo
+```
+git clone https://github.com/atanifx/uniadmin
+```
 # Sample usage
 
 ```
